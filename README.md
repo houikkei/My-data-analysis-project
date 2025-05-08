@@ -41,6 +41,3 @@ Member Lifecycle Management: Member Tags, Churn Prediction Models, Cluster Analy
 
 ## Others
 - 01.Internet Business Analysis Competition-2020year-meituan
-
-## Books
-- 01.Data Science for Economics and Finance Methodologies and Applications
